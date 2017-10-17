@@ -5,7 +5,7 @@
     "start": "meteor run"
   },
   "engines": {
-    "node": "6.11.1"
+    "node": "4.8.4"
   },
   "dependencies": {
     "angular-elastic": "^2.5.1",
