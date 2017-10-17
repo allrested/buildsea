@@ -1,5 +1,5 @@
 {
-  "name": "tapshop",
+  "name": "buildsea",
   "private": true,
   "scripts": {
     "start": "meteor run"

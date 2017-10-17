@@ -2,11 +2,11 @@ App.accessRule( "blob:*" );
 
 App.info({
   id: '',
-  name: 'TapShop',
-  description: 'Social commerce app.',
-  author: 'TapGadget',
-  email: 'support@tapgadget.io',
-  website: 'tapshop.tk',
+  name: 'Build Sea',
+  description: 'Budidaya perikanan commerce app.',
+  author: 'IRIS',
+  email: 'iris@email.unikom.ac.id',
+  website: 'build-me.web.id',
   version: '1.5.0'
 });
 
