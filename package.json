@@ -4,6 +4,9 @@
   "scripts": {
     "start": "meteor run"
   },
+  "engines": {
+    "node": "6.11.1"
+  }
   "dependencies": {
     "angular-elastic": "^2.5.1",
     "angular-sanitize": "^1.5.7",
